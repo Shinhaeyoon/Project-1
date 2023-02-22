@@ -1,6 +1,7 @@
 # Project-1
-NU Bootcamp Project 1
+
 Project 1 , Group 3
+
 John Leigh / Ianne Padagas / Shin Hae Yoon / Ana Ovalle
 
 
