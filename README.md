@@ -1,5 +1,8 @@
 # Project-1
 NU Bootcamp Project 1
+Project 1 , Group 3
+John Leigh / Ianne Padagas / Shin Hae Yoon / Ana Ovalle
+
 
 Goal:
 Analyze the popularity of various artists and songs using the Spotify API and Spotify’s Chart data
